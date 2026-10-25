@@ -17,7 +17,7 @@ This project implements a **Medallion Architecture** to process the data in stag
 * **Gold Layer (Business-Ready):** Final layer utilizing a **Star Schema** (Fact and Dimension views) optimized for business intelligence and reporting.
 
 ## Licensing
-This project is licensed under the MIT License - feel free to use and modify the code.
+
 
 ## About Me
 I am a Data Engineering and Software Development student passionate about building scalable data pipelines, enterprise data modeling, and automated ETL workflows. I have experience developing robust backend architectures using tools like SQL Server, Python, PostgreSQL, Docker, and Apache Airflow.
